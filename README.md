@@ -1,2 +1,2 @@
 # CotiInformatica
-Repository from exercises of course Coti Informática
+Repository of exercises of the course Coti Informática
